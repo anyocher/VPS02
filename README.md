@@ -1,5 +1,7 @@
 # 👩🏼‍🎓 Avaliação Banco de Dados 👩🏼‍🎓
 #### 13/06/2024 
+
+
 ## 📚 Conhecimentos
 *  DCL (data control language)
 * GRANT
@@ -141,5 +143,3 @@ select * from vw_todos_os_alugueis_com_status;
 select * from vw_alugueis_reservados;
 select * from vw_alugueis_em_andamento;
 ```
-
-
